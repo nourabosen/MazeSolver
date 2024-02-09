@@ -1,2 +1,16 @@
-# MazeSolver
-This project demonstrates how to generate random mazes and solve them using BFS. It provides a visual representation of the maze along with the shortest path from the entrance to the exit.
+# Maze Solver
+A Python program to generate and solve mazes using BFS algorithm.
+
+## Usage
+- Clone the repository.
+- Run `python maze_solver.py`.
+- Follow prompts to set maze dimensions.
+
+## Example
+![Example Maze](example_maze.png)
+
+## Contributing
+Contributions are welcome!
+
+## License
+MIT License
