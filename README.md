@@ -9,8 +9,3 @@ A Python program to generate and solve mazes using BFS algorithm.
 ## Example
 ![Example Maze](example_maze.png)
 
-## Contributing
-Contributions are welcome!
-
-## License
-MIT License
